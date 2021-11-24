@@ -1,0 +1,10 @@
+Flask
+Jinja2
+MarkupSafe
+PySocks
+Werkzeug
+httplib2
+itsdangerous
+pytz
+six
+twilio

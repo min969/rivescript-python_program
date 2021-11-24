@@ -1,0 +1,12 @@
+alabaster
+Babel
+docutils
+imagesize
+Jinja2
+MarkupSafe
+Pygments
+pytz
+six
+snowballstemmer
+Sphinx
+sphinx-rtd-theme
